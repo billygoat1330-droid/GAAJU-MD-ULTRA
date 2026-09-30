@@ -21,7 +21,7 @@
 
   <h3>🟢 Pair Site - Server 1</h3>
 
-  <a href="https://gaaju-ultra-pair-ljtv.onrender.com/">
+  <a href="https://billy-pair-ljtv.onrender.com/">
     <img src="https://img.shields.io/badge/PAIR%20SITE-SERVER%201-25D366?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
 
@@ -29,7 +29,7 @@
 
   <h3>🔵 Pair Site - Server 2</h3>
 
-  <a href="https://gaaju-ultra-pair04.onrender.com/">
+  <a href="https://biily-pair04.onrender.com/">
     <img src="https://img.shields.io/badge/PAIR%20SITE-SERVER%202-1E90FF?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
 
@@ -51,7 +51,7 @@
 
   <br><br>
 
-  ## 🚀 DEPLOY GAAJU ULTRA
+  ## 🚀 DEPLOY Billy 
 
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Xchristech2/GAAJU-MD-ULTRA">
     <img src="https://img.shields.io/badge/DEPLOY%20TO-HEROKU-6762A6?style=for-the-badge&logo=heroku&logoColor=white"/>
